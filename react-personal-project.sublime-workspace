@@ -1,0 +1,684 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"att",
+				"attr"
+			],
+			[
+				"e",
+				"expect"
+			],
+			[
+				"compo",
+				"composer"
+			],
+			[
+				"to",
+				"toHaveBeenCalledTimes"
+			],
+			[
+				"ini",
+				"initialState"
+			],
+			[
+				"como",
+				"component"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"test",
+				"testComment"
+			],
+			[
+				"toh",
+				"toHaveBeenCalled"
+			],
+			[
+				"no",
+				"nothing"
+			],
+			[
+				"_sub",
+				"_submitCommentOnEnter"
+			],
+			[
+				"_s",
+				"_submitComment"
+			],
+			[
+				"toHa",
+				"toHaveBeenCalledTimes"
+			],
+			[
+				"ha",
+				"handleFormSubmitSpy"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"han",
+				"_handleFormSubmit"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"arg",
+				"argument"
+			],
+			[
+				"toB",
+				"toBeInstanceOf"
+			],
+			[
+				"Tra",
+				"TransitionGroup"
+			],
+			[
+				"Tr",
+				"Transition"
+			],
+			[
+				"ap",
+				"appear"
+			],
+			[
+				"pos",
+				"Postman"
+			],
+			[
+				"ex",
+				"export"
+			],
+			[
+				"_h",
+				"_hideLikers"
+			],
+			[
+				"get",
+				"_getLikersList"
+			],
+			[
+				"c",
+				"currentUserLastName"
+			],
+			[
+				"_get",
+				"_getLikeByMe"
+			],
+			[
+				"curr",
+				"currentUserFirstName"
+			],
+			[
+				"liked",
+				"likedByMe"
+			],
+			[
+				"getli",
+				"_getLikeByMe"
+			],
+			[
+				"cu",
+				"currentUserFirstName"
+			],
+			[
+				"cur",
+				"currentUserLastName"
+			],
+			[
+				"_li",
+				"_likePostAsync"
+			],
+			[
+				"_soc",
+				"_socketOnPostRemove"
+			],
+			[
+				"_on",
+				"_socketOnJoinError"
+			],
+			[
+				"_so",
+				"_socketOnDisconnect"
+			],
+			[
+				"is",
+				"isEnterKey"
+			],
+			[
+				"com",
+				"components"
+			],
+			[
+				"handle",
+				"handleSubmit"
+			],
+			[
+				"St",
+				"Styles"
+			],
+			[
+				"comp",
+				"Components"
+			],
+			[
+				"prop",
+				"propTypes"
+			],
+			[
+				"Comp",
+				"Composer"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"getLis",
+				"getListNestedRegions"
+			],
+			[
+				"coll",
+				"collapsedItems"
+			],
+			[
+				"tre",
+				"treeState"
+			],
+			[
+				"ite",
+				"item"
+			],
+			[
+				"getItemI",
+				"_getItemInfo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"err",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"fo",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"sho",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"sh",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"form",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"formt",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"show all",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"litnt",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sp",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"edi",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"lor",
+				"Add some Lorem Gibson"
+			],
+			[
+				"lo",
+				"LoremIpsum: (15) some"
+			],
+			[
+				"insg",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JSX"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"int",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"inx",
+				"Indent XML"
+			],
+			[
+				"power",
+				"Set Syntax: PowerShell"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mrpix/Projects/lectrum/react-personal-project"
+	],
+	"file_history":
+	[
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/Counter/counter.test.js",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/instruments/instruments.test.js",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/Counter/__snapshots__/counter.test.js.snap",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/Counter/index.js",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/instruments/index.js",
+		"/Users/mrpix/Projects/notes.txt",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/Composer/composer.test.js",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/Counter/counter.tests.js",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/lectrum.sublime-project",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/package.json",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/Post/index.js",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/pages/App/index.js",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/Feed/styles.m.css",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/Feed/index.js",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/Like/index.js",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/Postman/index.js",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/Postman/styles.m.css",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/REST/api.js",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/StatusBar/index.js",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/HOC/withProfile.js",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/Spinner/index.js",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/Spinner/styles.m.css",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/REST/config.js",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/socket/init.js",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/Like/styles.m.css",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/like/index.js",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/like/styles.m.css",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/Composer/index.js",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/Catcher/index.js",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/Catcher/styles.m.css",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/Counter/styles.m.css",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/StatusBar/styles.m.css",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/index.js",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/Post/styles.m.css",
+		"/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/Composer/styles.m.css",
+		"/Users/mrpix/Projects/sdl/ContentManager/Source/Database/Scripts/MSSQL/Shared/85/EDA_ITEMS.sql",
+		"/Users/mrpix/Projects/sdl/ContentManager/Source/Database/Scripts/MSSQL/Shared/85/EDA_ORG_ITEMS.sql",
+		"/Users/mrpix/Projects/sdl/ContentManager/Source/Database/Scripts/MSSQL/Shared/85/EDA_PUBLICATIONS.sql",
+		"/Users/mrpix/Projects/sdl/ContentManager/Source/Database/Scripts/MSSQL/Shared/85/EDA_PUBLICATION_TARGETS.sql",
+		"/Users/mrpix/Projects/sdl/FirefoxIssue/child.html",
+		"/Users/mrpix/Projects/sdl/FirefoxIssue/parent.html",
+		"/Users/mrpix/Library/Caches/Firefox/Profiles/nialqk81.default/safebrowsing/mozplugin-block-digest256.sbstore",
+		"/Users/mrpix/Library/Caches/Firefox/Profiles/nialqk81.default/safebrowsing/mozplugin-block-digest256.pset",
+		"/Users/mrpix/Projects/lectrum/react-online-lesson/source/containers/Instagram.js",
+		"/Users/mrpix/Projects/lectrum/react-online-lesson/source/components/Profile/index.js",
+		"/Users/mrpix/Projects/lectrum/react-online-lesson/source/components/Photos/index.js",
+		"/Users/mrpix/Projects/sdl/OpenAPI/Source/Readme.md",
+		"/Users/mrpix/Projects/rc/FrskyTelemetryScript/TOOLS/pproc.lua",
+		"/Users/mrpix/Projects/rc/FrskyTelemetryScript/TARANIS/SOURCES/english.psv",
+		"/Users/mrpix/Projects/lectrum/react-online-lesson/source/components/Content/index.js",
+		"/Users/mrpix/Projects/rc/FrskyTelemetryScript/HORUS/SOURCES/yaapu0.lua",
+		"/Users/mrpix/Projects/rc/FrskyTelemetryScript/TARANIS/SOURCES/yaapu0.lua",
+		"/Users/mrpix/Projects/lectrum/react-online-lesson/source/components/Header/index.js",
+		"/Users/mrpix/Projects/lectrum/react-online-lesson/source/index.js",
+		"/Users/mrpix/Projects/carfinder.local/CarFinderApp/bin/Debug/netcoreapp1.1/CarFinderConfig.local.json",
+		"/Users/mrpix/Projects/sdl/ContentManager/Source/Tools/Misc/TestBuildReporterWebApp/testresults.component.html",
+		"/Users/mrpix/Projects/sdl/ExtensionManagerService/Build/DefineNugetPackageName.ps1",
+		"/Users/mrpix/Downloads/Autodesk AutoCAD 2018 (О.48.М.294)/install.txt",
+		"/Users/mrpix/Projects/sdl/ExtensionManagerService/Source/Database/MSSQL/Install Extension Manager database.ps1",
+		"/Users/mrpix/Projects/sdl/ExtensionManagerService/Source/Database/Scripts/MSSQL/Create/EMS_CREATE.sql",
+		"/Users/mrpix/Projects/sdl/ExtensionManagerService/Source/Database/Scripts/MSSQL/Create/EMS_CREATE_PERMISSIONS.sql",
+		"/Users/mrpix/Projects/sdl/ExtensionManagerService/Source/Database/Scripts/MSSQL/Create/EMS_INFOTABLE.sql",
+		"/Users/mrpix/Projects/sdl/ExtensionManagerService/Source/Database/Scripts/MSSQL/Create/EMS_TABLES.sql",
+		"/Users/mrpix/Projects/sdl/ExtensionManagerService/Source/Database/Scripts/MSSQL/Create/ReadMe.txt",
+		"/Users/mrpix/Projects/sdl/ExtensionManagerService/Build/Build.proj",
+		"/Volumes/[C] SDLDev/Projects/_ContentManagerExplorer/Tridion.Web.UI/Tridion.Web.UI.Core/Controls/Tree/Tree.js",
+		"/Volumes/[C] SDLDev/Projects/_ContentManagerExplorer/Tridion.Web.UI.Editors/CME2011/Tridion.Web.UI.Editors.CME/Controls/Trees/MultiSelectionTree.js",
+		"/Volumes/[C] SDLDev/Projects/_ContentManagerExplorer/Tridion.Web.UI.Editors/CME2011/Tridion.Web.UI.Editors.CME/Tabs/PageDesign.js",
+		"/Volumes/NO NAME/SETTING/setup.cfg",
+		"/Volumes/NO NAME/SETTING/default.cfg",
+		"/Volumes/[C] SDLDev/Projects/_ContentManagerExplorer/Tridion.Web.UI.Models/Tridion.Web.UI.Models.TCM54/Client/Lists/ListItemsBase.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/Users/mrpix/Projects/lectrum/react-intensive-boilerplate/source/components/Counter",
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 126.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "react-personal-project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ap",
+				"REST/api.js"
+			],
+			[
+				"conf",
+				"REST/config.js"
+			],
+			[
+				"withProfile",
+				"components/HOC/withProfile.js"
+			],
+			[
+				"listitems",
+				"Tridion.Web.UI.Models/Tridion.Web.UI.Models.TCM54/Client/Lists/ListItemsBase.js"
+			],
+			[
+				"",
+				"Tridion.Web.UI/Tridion.Web.UI.Core/Controls/Tree/Tree.js"
+			],
+			[
+				"multise",
+				"Tridion.Web.UI.Editors/CME2011/Tridion.Web.UI.Editors.CME/Controls/Trees/MultiSelectionTree.js"
+			],
+			[
+				"pagede",
+				"Tridion.Web.UI.Editors/CME2011/Tridion.Web.UI.Editors.CME/Tabs/PageDesign.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 90.0,
+		"last_filter": "app",
+		"selected_items":
+		[
+			[
+				"app",
+				"App"
+			],
+			[
+				"pos",
+				"Post"
+			],
+			[
+				"sta",
+				"StatusBar"
+			],
+			[
+				"fee",
+				"Feed"
+			],
+			[
+				"comp",
+				"Composer"
+			],
+			[
+				"fe",
+				"Feed"
+			],
+			[
+				"po",
+				"Post"
+			],
+			[
+				"post ",
+				"Post"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
